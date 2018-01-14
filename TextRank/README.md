@@ -1,4 +1,6 @@
 # TextRank를 이용한 문서요약
+자세한 내용은 블로그 [excelsior-cjh.tistory.com/TextRank를 이용한 문서요약](http://excelsior-cjh.tistory.com/entry/TextRank%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD?category=918734)를 참고
+
 ### 목적
 
 * 인터넷 뉴스 기사 및 내용이 긴 텍스트를 핵심 내용을 요약하기 위해 프로젝트를 진행
