@@ -14,8 +14,12 @@
 - **모델링** : 머신러닝 및 딥러닝 알고리즘을 사용해 이미지를 분류하기 위한 모델링
 
 
+### 3. 진행 일정
 
-### 3. 참고문헌
+- ​
+
+
+### 4. 참고문헌
 
 - [OpenCV를 활용한 명함인식 기능 구현 강좌](https://www.inflearn.com/course/opencv-%EA%B0%95%EC%A2%8C-%EB%AA%85%ED%95%A8%EC%9D%B8%EC%8B%9D/)
 - [OpenCV-Python Study documentation](http://opencv-python.readthedocs.io/en/latest/index.html)
